@@ -1,2 +1,2 @@
-# gallary
-picgo gallary
+# gallery
+picgo gallery
